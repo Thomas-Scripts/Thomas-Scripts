@@ -16,36 +16,74 @@
 ###
 
 <div data-importer="techs" align="left">
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ac6a7f9f-1863-459a-a3e0-bc6e0a3339c2" style="margin-right: 15px;" />
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/acb231d0-3716-472e-a66c-2491fc937b6f" style="margin-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" style="margin-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="margin-right: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" style="margin-right: 15px;" />
+<img width="30" height="25" alt="excel" src="https://github.com/user-attachments/assets/ac6a7f9f-1863-459a-a3e0-bc6e0a3339c2" style="margin-right: 15px;" />
+<img width="30" height="25" alt="power bi" src="https://github.com/user-attachments/assets/acb231d0-3716-472e-a66c-2491fc937b6f" style="margin-right: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="jupyter logo" style="margin-right: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" style="margin-right: 15px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" alt="microsoftsqlserver logo" style="margin-right: 15px;" />
 </div>
 
 #
 
+<p data-importer="text" align="left"><strong>Projects by via Tools Used:</strong></p>
+
+###
+
+<div align="left">
+
+  <p>
+    <a href="YOUR_POWER_BI_PROJECT_LINK" target="_blank">
+      <img width="30" height="25" alt="Power BI" src="https://github.com/user-attachments/assets/ac6a7f9f-1863-459a-a3e0-bc6e0a3339c2" />
+      <strong> Excel Projects</strong>
+    </a>
+  </p>
+
+  <p>
+    <a href="YOUR_EXCEL_PROJECT_LINK" target="_blank">
+      <img width="30" height="25" alt="Excel" src="https://github.com/user-attachments/assets/acb231d0-3716-472e-a66c-2491fc937b6f" />
+      <strong> Power BI Projects</strong>
+    </a>
+  </p>
+
+  <p>
+    <a href="YOUR_PYTHON_PROJECT_LINK" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="25" alt="Python" />
+      <strong> Python Projects</strong>
+    </a>
+  </p>
+
+  <p>
+    <a href="YOUR_SQL_PROJECT_LINK" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="25" alt="Microsoft SQL Server" />
+      <strong> SQL Projects</strong>
+    </a>
+  </p>
+
+</div>
+
+#
 <p data-importer="text" align="left"><strong>Kindly reach out below:</strong></p>
 
 ###
 
 <div data-importer="socials" align="left">
   <a href="www.linkedin.com/in/ okuta-thomas-oko-035428260" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo"  />
   </a>
   <a href="okutathomas24@gmail.com" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="30" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo"  />
   </a>
   <a href="https://x.com/IamThomas24" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="25" height="25" alt="twitter logo"  />
   </a>
   <a href="https://medium.com/@thommyokuta" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="30" height="30" alt="medium logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="25" height="25" alt="medium logo"  />
 </a>
 
 <a href="+2348133884108" target="_blank" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="30" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="25" height="25" alt="whatsapp logo"  />
 </a>
 </div>
 
 ###
+#
